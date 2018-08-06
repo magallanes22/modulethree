@@ -1,4 +1,4 @@
-## ModuleThre
+## ModuleThree
 1. Create an AWS IAM role
 2. Create an S3 bucket as input data for the web application
 
